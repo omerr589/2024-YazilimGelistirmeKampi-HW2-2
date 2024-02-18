@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{56D9FA65-162D-43DD-9497-5CFFED4C588C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{C045ECD1-312F-4D4C-84CB-CDD03F77F737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{56D9FA65-162D-43DD-9497-5CFFED4C588C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56D9FA65-162D-43DD-9497-5CFFED4C588C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56D9FA65-162D-43DD-9497-5CFFED4C588C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C045ECD1-312F-4D4C-84CB-CDD03F77F737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C045ECD1-312F-4D4C-84CB-CDD03F77F737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C045ECD1-312F-4D4C-84CB-CDD03F77F737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C045ECD1-312F-4D4C-84CB-CDD03F77F737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
