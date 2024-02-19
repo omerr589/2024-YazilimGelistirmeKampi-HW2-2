@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{56D9FA65-162D-43DD-9497-5CFFED4C588C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{56D9FA65-162D-43DD-9497-5CFFED4C588C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{C045ECD1-312F-4D4C-84CB-CDD03F77F737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{C045ECD1-312F-4D4C-84CB-CDD03F77F737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{665D441D-8EBE-45CC-A968-D92386B87D33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{665D441D-8EBE-45CC-A968-D92386B87D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{D9C393CE-ACE5-4159-909E-3E64E3D0453F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{665D441D-8EBE-45CC-A968-D92386B87D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{665D441D-8EBE-45CC-A968-D92386B87D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{665D441D-8EBE-45CC-A968-D92386B87D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9C393CE-ACE5-4159-909E-3E64E3D0453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C393CE-ACE5-4159-909E-3E64E3D0453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C393CE-ACE5-4159-909E-3E64E3D0453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C393CE-ACE5-4159-909E-3E64E3D0453F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
